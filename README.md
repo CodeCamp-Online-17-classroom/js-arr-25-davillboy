@@ -10,3 +10,4 @@ const inventory = [
 ];
 // expected result: { name: 'cherries', quantity: 5 }
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
